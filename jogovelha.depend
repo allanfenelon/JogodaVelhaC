@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626801451 source:/home/allan/jogovelha/main.c
+	<stdio.h>
+	<stdlib.h>
+	"functions.h"
+
+1626800907 /home/allan/jogovelha/functions.h
+
